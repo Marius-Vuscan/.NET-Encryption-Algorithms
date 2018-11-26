@@ -1,0 +1,15 @@
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\bin\Debug\Implementare_algoritmii_criptare.net.exe.config
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\bin\Debug\Implementare_algoritmii_criptare.net.exe
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\bin\Debug\Implementare_algoritmii_criptare.net.pdb
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\MainWindow.g.cs
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\App.g.cs
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\Implementare_algoritmii_criptare.net_MarkupCompile.cache
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\Implementare_algoritmii_criptare.net_MarkupCompile.lref
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\MainWindow.baml
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\Implementare_algoritmii_criptare.net.g.resources
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\Implementare_algoritmii_criptare.net.Properties.Resources.resources
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\NET Encryption Algorithms.csproj.GenerateResource.cache
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\NET Encryption Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\Implementare_algoritmii_criptare.net.exe
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\Implementare_algoritmii_criptare.net.pdb
+C:\Users\Marius\Desktop\Implementare algoritmii criptare .net\Implementare algoritmii criptare .net\obj\Debug\NET Encryption Algorithms.csprojAssemblyReference.cache
